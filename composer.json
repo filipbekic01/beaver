@@ -1,0 +1,19 @@
+{
+    "name": "filip/beaver",
+    "description": "This is my very test package.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Filip Bekic",
+            "email": "filip1994sm@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
