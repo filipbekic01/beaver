@@ -1,7 +1,9 @@
 {
     "name": "filipbekic01/beaver",
     "description": "This is my first PHP package.",
+    "keywords": ["beaverland", "beaver", "filipbekic01"],
     "type": "project",
+    "license": "MIT",
     "authors": [
         {
             "name": "Filip Bekic",
