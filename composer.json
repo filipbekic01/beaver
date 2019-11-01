@@ -1,6 +1,6 @@
 {
-    "name": "filip/beaver",
-    "description": "This is my very test package.",
+    "name": "filipbekic01/beaverland",
+    "description": "This is my first PHP package.",
     "type": "project",
     "authors": [
         {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-0": {
-            "HelloWorld": "src/"
+            "Beaverland": "src/"
         }
     }
 }
